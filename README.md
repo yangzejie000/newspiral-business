@@ -39,6 +39,7 @@ Newspiral作为工信部信创区块链首批测评通过的联盟链平台，�
 
 ## 安装教程
 Newspiral提供图形化界面安装以及节点一键部署脚本，详情见[在线开发者文档](http://docs.jinninghui.com){target="_blank"}
+<a href="http://docs.jinninghui.com" target="_blank">Go</a>
 
 ## 使用说明
 Newspiral提供完整的接入文档和示例工程，详情见[在线开发者文档](http://docs.jinninghui.com){target="_blank"}
