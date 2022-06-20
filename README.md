@@ -43,6 +43,7 @@ Newspiral提供图形化界面安装以及节点一键部署脚本，详情见[�
 <a href="http://docs.jinninghui.com" target="_blank">Go</a>
 
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<http://docs.jinninghui.com>
 
 
 ## 使用说明
