@@ -42,7 +42,7 @@ Newspiral提供图形化界面安装以及节点一键部署脚本，详情见[�
 <a href="http://docs.jinninghui.com" target="_blank">Go</a>
 
 ## 使用说明
-Newspiral提供完整的接入文档和示例工程，详情见[在线开发者文档](http://docs.jinninghui.com){:target="_blank"}
+Newspiral提供完整的接入文档和示例工程，详情见[在线开发者文档](http://docs.jinninghui.com?_blank){:target="_blank"}
 
 ## 参与贡献
 1.  Fork 本仓库
